@@ -685,3 +685,4 @@
 | Pletnev Nikolay                | DevOps Itransition                                 |
 | Пушкарев Андрей                | Fullstack Development                              |
 | Исмаил Алекперов               | фрилансер, Екатеринбург                            |
+| Михаил Потанин                 | Scala-программист, Waves Platform, Москва          |
